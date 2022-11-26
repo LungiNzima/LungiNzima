@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LungiNzima
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on small projects outside and within China
 - 📫 How to reach me email nzimalungi@gmail.com

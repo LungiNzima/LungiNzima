@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LungiNzima
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- Seeking traineeships in frontend development
+- 👀 I’m interested in HRIS
+- 🌱 I’m currently learning Python
+- Seeking roles in HRIS
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me email nzimalungi@gmail.com
 

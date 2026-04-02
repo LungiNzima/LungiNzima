@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LungiNzima
 - 👀 I’m interested in HRIS
-- 🌱 I’m currently deeply learning Python and data visualization
-- 🔴 Seeking roles in South Africa or remote
+- 🌱 I’m currently diving deeper into Python and data visualization
+- 🔴 Seeking roles in South Africa or remotely 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: email nzimalungi@gmail.com
 

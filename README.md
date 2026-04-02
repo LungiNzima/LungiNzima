@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @LungiNzima
 - 👀 I’m interested in HRIS
-- 🌱 I’m currently learning Python
-- 🔴 Seeking roles in South Africa or abroad
+- 🌱 I’m currently deeply learning Python and data visualization
+- 🔴 Seeking roles in South Africa or remote
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me email nzimalungi@gmail.com
+- 📫 How to reach me: email nzimalungi@gmail.com
 
 <!---
 LungiNzima/LungiNzima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
